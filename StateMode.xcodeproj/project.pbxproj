@@ -31,6 +31,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B28F4F3E152EC48200C8C12F /* stateClasses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stateClasses.png; sourceTree = "<group>"; };
 		B2A61DF5152D9552009A202E /* StateMode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = StateMode; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2A61DF9152D9552009A202E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B2A61DFB152D9552009A202E /* StateMode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = StateMode.1; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 				B2A61E0F152D9CBC009A202E /* CRunningState.cpp */,
 				B2A61E11152D9CE2009A202E /* CStoppingState.h */,
 				B2A61E12152D9CEC009A202E /* CStoppingState.cpp */,
+				B28F4F3E152EC48200C8C12F /* stateClasses.png */,
 			);
 			path = StateMode;
 			sourceTree = "<group>";
